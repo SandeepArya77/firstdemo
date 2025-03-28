@@ -1,4 +1,4 @@
 # firstdemo
 This is my first Repositry
 <br>
-Author - Mr.Sandeep
+Author - Mr.Sandeep Arya
